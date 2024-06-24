@@ -89,12 +89,3 @@ Let's put our webcrawler into action. For demonstration purpose I made to the cr
 
 ![Web Crawling](ScreenShots/WebCrawler_working.gif)
 
-## Technologies used
-
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="ScreenShots/selenium.png" width=120/>](https://www.selenium.dev/)
-[<img target="_blank" src="ScreenShots/beautifulsoup.png" width=250>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[<img target="_blank" src="ScreenShots/matplotlib.svg" width=250>](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
-</br>
