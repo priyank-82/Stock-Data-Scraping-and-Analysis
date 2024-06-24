@@ -10,7 +10,6 @@
     - [Iterating search results](#iterating-search-results)
     - [Plot Generation](#plot-generation)
   - [Technologies used](#technologies-used)
-  - [Creator:](#creator)
 
 
 ## Problem Statement:
